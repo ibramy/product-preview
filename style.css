@@ -167,5 +167,6 @@ p{
     width: 90%;
     height: auto;
     padding: 1rem;
+    gap: 1rem;
   }
 }
